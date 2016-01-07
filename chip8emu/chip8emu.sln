@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chip8emu", "chip8emu\chip8emu.vcxproj", "{5A2875F7-52C4-4F26-AD50-398E954EE34C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F45FE110-F4F8-4CC6-956A-F28AD9B1B9E6}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2875F7-52C4-4F26-AD50-398E954EE34C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A2875F7-52C4-4F26-AD50-398E954EE34C}.Debug|Win32.Build.0 = Debug|Win32
+		{5A2875F7-52C4-4F26-AD50-398E954EE34C}.Release|Win32.ActiveCfg = Release|Win32
+		{5A2875F7-52C4-4F26-AD50-398E954EE34C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
